@@ -1,5 +1,5 @@
 ## Hello World
 
-This is my first wesite
+This is my first website
 
 Cheers!
